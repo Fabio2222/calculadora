@@ -1,5 +1,5 @@
 # calculadora
 <br><br>
-### Tela de consulta de CEP
+### Tela de calculadora
 <br>
 <img src="./example.png" />
